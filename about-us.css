@@ -1,0 +1,107 @@
+body {
+    margin: 0;
+}
+
+.FAKE {
+   align-content: center;
+
+}
+       
+.center {
+   position: absolute;
+   top: 40%;
+   left: 50%;
+   bottom: 0px;
+   transform: translate(-50%, -50%);
+   font-size: 18px;
+   
+}
+           
+
+
+nav {
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height:100%;
+    font-size: 40px;
+         
+}
+   
+nav a{
+    color: white; 
+    text-decoration: none;
+}
+       
+nav a:hover {
+    background-color: #1a66ff;
+    color: white;
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+#person1{
+    position: relative;
+    right: 70%;
+   
+}
+
+#person2{
+    position: relative;
+    left: 70%;
+   
+}
+
+
+#person3{
+    position: relative;
+    right: 70%;
+   
+}
+
+#person4{
+    position: relative;
+    left: 70%;
+   
+}
+
+#person5{
+    position: relative;
+    right: 70%;
+   
+}
+
+#p1{
+    position: relative;
+    bottom: 250px;
+    left: 100px;
+}
+
+#p2{
+    position: relative;
+    bottom: 280px;
+    right: 100px;
+}
+
+#p3{
+    position: relative;
+    bottom: 280px;
+    left: 100px;
+}
+
+#p4{
+    position: relative;
+    bottom: 250px;
+    right: 100px;
+}
+
+#p5{
+    position: relative;
+    bottom: 250px;
+    left: 100px;
+}

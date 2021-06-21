@@ -1,0 +1,77 @@
+
+
+#name{
+    border-style: solid;
+    border-color: #0063B2FF;
+    border-width: 3px;
+    background-color: #9CC3D5FF;
+    
+}
+
+#name2{
+    border-style: solid;
+    border-color: #0063B2FF;
+    border-width: 3px;
+    background-color: #9CC3D5FF;
+    
+}
+
+#mail{
+    border-style: solid;
+    border-color: #0063B2FF;
+    border-width: 3px;
+    background-color: #9CC3D5FF;
+    
+}
+
+#phone{
+    border-style: solid;
+    border-color: #0063B2FF;
+    border-width: 3px;
+    background-color: #9CC3D5FF;
+    
+}
+
+#subject{
+    border-style: solid;
+    border-color: #0063B2FF;
+    border-width: 3px;
+    background-color: #9CC3D5FF;
+    
+}
+
+#container-message{
+    margin-left: 29%;
+    margin-right: 700px;
+    position: absolute;
+    text-align: center;
+    top : 7%;
+}
+
+#container-contact{
+    margin-right: 1100px;
+    color: #9CC3D5FF;
+    background-color: #0063B2FF;
+}
+
+textarea{
+    resize: none;
+    height: 100px;
+    width: 300px;
+}
+
+button{
+    background-color: #6699ff;
+    color: black;
+    padding: 12px 20px;
+    border-style: solid;
+    border-color: #2940c2;
+    border-width: 3px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #1a66ff;
+    
+}
